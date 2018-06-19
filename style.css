@@ -1,0 +1,44 @@
+#outercontainer{
+    width: 100%;
+    border: 2px double #000000;
+    display: auto;
+}
+#innercontainer{
+    width: 60%;
+    margin: 0 auto;
+}
+h1{
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+}
+h2{
+    font-family: monospace;
+    font-size: 28px;
+     text-align: center;
+     margin: -25px;
+}
+h3{
+
+    font-family: monospace;
+     text-align: center;
+}
+ul{
+   
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    margin: 0 auto;
+    padding: 20px;
+}
+li{
+    display: inline;
+    margin-left: 100px;
+}
+img{
+    width: 100%;
+    height: 300px;
+    margin-top: 10px;
+}
+p{
+    text-align: center;
+}
